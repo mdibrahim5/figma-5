@@ -1,0 +1,10 @@
+@media only screen and (max-width: 990px){
+    .offcanvas-body {
+        background: #6f2cf5;
+    }
+}
+@media only screen and (max-width: 400px){
+    .comment-text {
+        margin-left: 30px;
+    }
+}
